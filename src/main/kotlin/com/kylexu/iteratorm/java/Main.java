@@ -8,6 +8,7 @@ public class Main {
         bookShelf.appendBook(new Book("Bible"));
         bookShelf.appendBook(new Book("The java for impatient"));
         bookShelf.appendBook(new Book("Gang of Four"));
+        bookShelf.appendBook(new Book("Exception?"));
 
         IteratorGOF iterator = bookShelf.iterator();
         while (iterator.hasNext()) {
