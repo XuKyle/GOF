@@ -25,6 +25,13 @@
 ### adapter 适配者
 主人公，使用adaptee满足target的需求
 
+## 3. template method
+### abstractClass 抽象类
+负责实现模版方法，负责声明模版方法中所需要的方法
+### concreteClass 实现类
+实现抽象类中的模版方法
+
+
 
 
 
