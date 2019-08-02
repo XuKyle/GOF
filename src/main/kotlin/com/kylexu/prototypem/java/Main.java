@@ -6,6 +6,7 @@ import com.kylexu.prototypem.java.framework.Product;
 public class Main {
     public static void main(String[] args) {
         Manager manager = new Manager();
+
         UnderLinePen underLinePen = new UnderLinePen('~');
         MessageBox messageBox = new MessageBox('*');
         MessageBox messageBox1 = new MessageBox('/');
